@@ -1,1 +1,1 @@
-# -hypernetx-dash
+# hypernetx-dash
